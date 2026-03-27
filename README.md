@@ -17,6 +17,7 @@ The goal of this project is to demonstrate data preprocessing, model architectur
 
 ## 📊 Dataset Details
 The **MNIST** (Modified National Institute of Standards and Technology) dataset consists of 70,000 grayscale images of handwritten digits (0-9).
+link of DATASET  - "https://www.kaggle.com/datasets/oddrationale/mnist-in-csv"
 * **Training Set:** `mnist_train.csv`
 * **Test Set:** `mnist_test.csv`
 * **Resolution:** 28x28 pixels
