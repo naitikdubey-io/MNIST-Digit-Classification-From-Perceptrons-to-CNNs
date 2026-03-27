@@ -59,7 +59,7 @@ Each model was trained for **5 epochs**. The results highlight the significant a
 
 ## 📂 Project Structure
 ```text
-├── data/               # MNIST CSV files (if applicable)
+├── data/               # MNIST CSV files 
 ├── notebooks/          # Jupyter Notebook with full implementation
 ├── README.md           # Project documentation
 └── requirements.txt    # List of dependencies
